@@ -1,0 +1,10 @@
+D:\Kuliah\Amikom\Semester 3\Pemrograman Lanjut\Materi\Module Praktikum 05\02 tugas\TugasLibraryUnitTesting\bin\Debug\TugasLibraryUnitTesting.dll
+D:\Kuliah\Amikom\Semester 3\Pemrograman Lanjut\Materi\Module Praktikum 05\02 tugas\TugasLibraryUnitTesting\bin\Debug\TugasLibraryUnitTesting.pdb
+D:\Kuliah\Amikom\Semester 3\Pemrograman Lanjut\Materi\Module Praktikum 05\02 tugas\TugasLibraryUnitTesting\bin\Debug\nunit.framework.dll
+D:\Kuliah\Amikom\Semester 3\Pemrograman Lanjut\Materi\Module Praktikum 05\02 tugas\TugasLibraryUnitTesting\bin\Debug\TugasLibrary.dll
+D:\Kuliah\Amikom\Semester 3\Pemrograman Lanjut\Materi\Module Praktikum 05\02 tugas\TugasLibraryUnitTesting\bin\Debug\TugasLibrary.pdb
+D:\Kuliah\Amikom\Semester 3\Pemrograman Lanjut\Materi\Module Praktikum 05\02 tugas\TugasLibraryUnitTesting\bin\Debug\nunit.framework.xml
+D:\Kuliah\Amikom\Semester 3\Pemrograman Lanjut\Materi\Module Praktikum 05\02 tugas\TugasLibraryUnitTesting\obj\Debug\TugasLibraryUnitTesting.csproj.AssemblyReference.cache
+D:\Kuliah\Amikom\Semester 3\Pemrograman Lanjut\Materi\Module Praktikum 05\02 tugas\TugasLibraryUnitTesting\obj\Debug\TugasLibraryUnitTesting.csproj.CoreCompileInputs.cache
+D:\Kuliah\Amikom\Semester 3\Pemrograman Lanjut\Materi\Module Praktikum 05\02 tugas\TugasLibraryUnitTesting\obj\Debug\TugasLibraryUnitTesting.dll
+D:\Kuliah\Amikom\Semester 3\Pemrograman Lanjut\Materi\Module Praktikum 05\02 tugas\TugasLibraryUnitTesting\obj\Debug\TugasLibraryUnitTesting.pdb
